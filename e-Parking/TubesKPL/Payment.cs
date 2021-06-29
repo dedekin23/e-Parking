@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Windows.Forms;
 
 namespace TubesKPL
@@ -39,10 +40,11 @@ namespace TubesKPL
         // Menambahkan data pembayaran ke payment.JSON.
         private void btnPayment_Click(object sender, EventArgs e)
         {
+            Debug.Assert(txtMessage.Text.Length > 0, "Harus ada pesan!");
             if (txtMessage.Text.Length != 0)
             {
                 paymentModel.Add(new PaymentModel(
-                    signIn.username, 
+                    signIn.username,
                     int.Parse(labelParkingNumber.Text),
                     int.Parse(labelParkingTime.Text.Substring(0, 2)),
                     int.Parse(labelParkingTime.Text.Substring(0, 2)) * 7000,
@@ -64,7 +66,7 @@ namespace TubesKPL
         {
             labelParkingNumber.Text = park.GetlabelParkNumber();
             labelParkingTime.Text = Config.RandomTimeLength();
-            labelTotal.Text = "Rp. " + (int.Parse(labelParkingTime.Text.Substring(0,2)) * 7000).ToString();
+            labelTotal.Text = "Rp. " + (int.Parse(labelParkingTime.Text.Substring(0, 2)) * 7000).ToString();
         }
 
         // Kembali ke Halaman Menu Utama.
