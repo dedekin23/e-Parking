@@ -1,0 +1,23 @@
+[
+  {
+    "username": "altop",
+    "parkingNumber": 29,
+    "parkingTime": 3,
+    "totalFee": 21000,
+    "message": "-"
+  },
+  {
+    "username": "appan",
+    "parkingNumber": 43,
+    "parkingTime": 6,
+    "totalFee": 42000,
+    "message": "-"
+  },
+  {
+    "username": "appan",
+    "parkingNumber": 301,
+    "parkingTime": 1,
+    "totalFee": 7000,
+    "message": "4"
+  }
+]
