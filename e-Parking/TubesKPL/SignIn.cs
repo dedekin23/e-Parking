@@ -35,7 +35,7 @@ namespace TubesKPL
             Console.WriteLine(password.ToString());
 
             Debug.Assert(txtUsername.Text.Length >= 5, "Panjang Username Minimal 5 Karakter.");
-            Debug.Assert(txtPassword.Text.Length >= 8, "Panjang Username Minimal 8 Karakter.");
+            Debug.Assert(txtPassword.Text.Length >= 8, "Panjang Password Minimal 8 Karakter.");
 
             if (txtUsername.Text == username.ToString() && txtPassword.Text == password.ToString())
             {
