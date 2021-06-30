@@ -9,8 +9,8 @@ namespace TubesKPL
     {
 
         // Inisialisasi Variabel.
-        // Ambil data username dari tabledriven "appan".
-        static UserTableDriven.Username id = UserTableDriven.Username.users;
+        // Ambil data username dari tabledriven "afanafan".
+        static UserTableDriven.Username id = UserTableDriven.Username.afanafan;
         public string username = id.ToString();
         public string password = UserTableDriven.getPassword(id);
 
@@ -28,7 +28,7 @@ namespace TubesKPL
         }
 
         // Masuk ke menu utama jika username dan password yang di inputkan sesuai
-        // dengan username password dari tabledriven "appan".
+        // dengan username password dari tabledriven "afanafan".
         private void btnSignIn_Click(object sender, EventArgs e)
         {
             Console.WriteLine(username.ToString());

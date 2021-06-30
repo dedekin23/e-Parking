@@ -34,3 +34,21 @@ D:\TP\COA\TubesKPL\TubesKPL\obj\Debug\TubesKPL.csproj.CoreCompileInputs.cache
 D:\TP\COA\TubesKPL\TubesKPL\obj\Debug\TubesKPL.csproj.CopyComplete
 D:\TP\COA\TubesKPL\TubesKPL\obj\Debug\TubesKPL.exe
 D:\TP\COA\TubesKPL\TubesKPL\obj\Debug\TubesKPL.pdb
+C:\KABEH LOSSS\TUGAS\SEMESTER 4\Kontruksi\VS19\e-Parking\e-Parking\TubesKPL\bin\Debug\TubesKPL.exe.config
+C:\KABEH LOSSS\TUGAS\SEMESTER 4\Kontruksi\VS19\e-Parking\e-Parking\TubesKPL\bin\Debug\TubesKPL.exe
+C:\KABEH LOSSS\TUGAS\SEMESTER 4\Kontruksi\VS19\e-Parking\e-Parking\TubesKPL\bin\Debug\TubesKPL.pdb
+C:\KABEH LOSSS\TUGAS\SEMESTER 4\Kontruksi\VS19\e-Parking\e-Parking\TubesKPL\bin\Debug\Newtonsoft.Json.dll
+C:\KABEH LOSSS\TUGAS\SEMESTER 4\Kontruksi\VS19\e-Parking\e-Parking\TubesKPL\bin\Debug\Newtonsoft.Json.xml
+C:\KABEH LOSSS\TUGAS\SEMESTER 4\Kontruksi\VS19\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.csproj.AssemblyReference.cache
+C:\KABEH LOSSS\TUGAS\SEMESTER 4\Kontruksi\VS19\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.MenuUtama.resources
+C:\KABEH LOSSS\TUGAS\SEMESTER 4\Kontruksi\VS19\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.Park.resources
+C:\KABEH LOSSS\TUGAS\SEMESTER 4\Kontruksi\VS19\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.Payment.resources
+C:\KABEH LOSSS\TUGAS\SEMESTER 4\Kontruksi\VS19\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.Properties.Resources.resources
+C:\KABEH LOSSS\TUGAS\SEMESTER 4\Kontruksi\VS19\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.Report.resources
+C:\KABEH LOSSS\TUGAS\SEMESTER 4\Kontruksi\VS19\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.SignIn.resources
+C:\KABEH LOSSS\TUGAS\SEMESTER 4\Kontruksi\VS19\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.Thanks.resources
+C:\KABEH LOSSS\TUGAS\SEMESTER 4\Kontruksi\VS19\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.csproj.GenerateResource.cache
+C:\KABEH LOSSS\TUGAS\SEMESTER 4\Kontruksi\VS19\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.csproj.CoreCompileInputs.cache
+C:\KABEH LOSSS\TUGAS\SEMESTER 4\Kontruksi\VS19\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.csproj.CopyComplete
+C:\KABEH LOSSS\TUGAS\SEMESTER 4\Kontruksi\VS19\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.exe
+C:\KABEH LOSSS\TUGAS\SEMESTER 4\Kontruksi\VS19\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.pdb
