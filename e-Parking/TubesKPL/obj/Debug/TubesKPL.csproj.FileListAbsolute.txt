@@ -34,3 +34,21 @@ D:\TP\COA\TubesKPL\TubesKPL\obj\Debug\TubesKPL.csproj.CoreCompileInputs.cache
 D:\TP\COA\TubesKPL\TubesKPL\obj\Debug\TubesKPL.csproj.CopyComplete
 D:\TP\COA\TubesKPL\TubesKPL\obj\Debug\TubesKPL.exe
 D:\TP\COA\TubesKPL\TubesKPL\obj\Debug\TubesKPL.pdb
+D:\TUBES KPL\e-Parking\e-Parking\TubesKPL\bin\Debug\TubesKPL.exe.config
+D:\TUBES KPL\e-Parking\e-Parking\TubesKPL\bin\Debug\TubesKPL.exe
+D:\TUBES KPL\e-Parking\e-Parking\TubesKPL\bin\Debug\TubesKPL.pdb
+D:\TUBES KPL\e-Parking\e-Parking\TubesKPL\bin\Debug\Newtonsoft.Json.dll
+D:\TUBES KPL\e-Parking\e-Parking\TubesKPL\bin\Debug\Newtonsoft.Json.xml
+D:\TUBES KPL\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.csprojAssemblyReference.cache
+D:\TUBES KPL\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.MenuUtama.resources
+D:\TUBES KPL\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.Park.resources
+D:\TUBES KPL\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.Payment.resources
+D:\TUBES KPL\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.Properties.Resources.resources
+D:\TUBES KPL\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.Report.resources
+D:\TUBES KPL\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.SignIn.resources
+D:\TUBES KPL\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.Thanks.resources
+D:\TUBES KPL\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.csproj.GenerateResource.cache
+D:\TUBES KPL\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.csproj.CoreCompileInputs.cache
+D:\TUBES KPL\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.csproj.CopyComplete
+D:\TUBES KPL\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.exe
+D:\TUBES KPL\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.pdb
