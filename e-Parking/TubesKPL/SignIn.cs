@@ -10,7 +10,7 @@ namespace TubesKPL
 
         // Inisialisasi Variabel.
         // Ambil data username dari tabledriven "afanafan".
-        static UserTableDriven.Username id = UserTableDriven.Username.afanafan;
+        static UserTableDriven.Username id = UserTableDriven.Username.althoof;
         public string username = id.ToString();
         public string password = UserTableDriven.getPassword(id);
 
