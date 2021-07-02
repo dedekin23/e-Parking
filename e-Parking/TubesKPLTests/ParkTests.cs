@@ -17,13 +17,14 @@ namespace TubesKPL.Tests
             var test = new UserTableDriven();
         }
 
+        // Iwiniwin adalah Sarja Asra Winata
         internal class getMenu
         {
-            private object althoof;
+            private object iwiniwin;
 
-            public getMenu(object althoof)
+            public getMenu(object iwiniwin)
             {
-                this.althoof = althoof;
+                this.iwiniwin = iwiniwin;
             }
         }
     }
