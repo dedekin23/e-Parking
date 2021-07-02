@@ -70,3 +70,21 @@ D:\KULIAH Tk.II\Materi genap tk.2\Kontruksi Perangkat Lunak\New folder (2)\e-Par
 D:\KULIAH Tk.II\Materi genap tk.2\Kontruksi Perangkat Lunak\New folder (2)\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.csproj.CopyComplete
 D:\KULIAH Tk.II\Materi genap tk.2\Kontruksi Perangkat Lunak\New folder (2)\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.exe
 D:\KULIAH Tk.II\Materi genap tk.2\Kontruksi Perangkat Lunak\New folder (2)\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.pdb
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPL\bin\Debug\TubesKPL.exe.config
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPL\bin\Debug\TubesKPL.exe
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPL\bin\Debug\TubesKPL.pdb
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.MenuUtama.resources
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.Park.resources
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.Payment.resources
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.Report.resources
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.SignIn.resources
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.Thanks.resources
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.exe
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPL\obj\Debug\TubesKPL.pdb
