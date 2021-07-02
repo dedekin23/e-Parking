@@ -1,7 +1,12 @@
 ﻿namespace TubesKPL
 {
-    class UserTableDriven
+    public class UserTableDriven
     {
+        public UserTableDriven()
+        {
+
+        }
+
         public enum Username { users, althoof, iwiniwin, afanafan, michael};
         public static string[] password = { "users12345", "123456789", "iwiniwin1", "afanafan1", "michael12"};
 
@@ -9,5 +14,6 @@
         {
             return password[(int)username];
         }
+
     }
 }
