@@ -1,0 +1,38 @@
+D:\KULIAH Tk.II\Materi genap tk.2\Kontruksi Perangkat Lunak\New folder (2)\e-Parking\e-Parking\TubesKPLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\KULIAH Tk.II\Materi genap tk.2\Kontruksi Perangkat Lunak\New folder (2)\e-Parking\e-Parking\TubesKPLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\KULIAH Tk.II\Materi genap tk.2\Kontruksi Perangkat Lunak\New folder (2)\e-Parking\e-Parking\TubesKPLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\KULIAH Tk.II\Materi genap tk.2\Kontruksi Perangkat Lunak\New folder (2)\e-Parking\e-Parking\TubesKPLTests\bin\Debug\TubesKPLTests.dll
+D:\KULIAH Tk.II\Materi genap tk.2\Kontruksi Perangkat Lunak\New folder (2)\e-Parking\e-Parking\TubesKPLTests\bin\Debug\TubesKPLTests.pdb
+D:\KULIAH Tk.II\Materi genap tk.2\Kontruksi Perangkat Lunak\New folder (2)\e-Parking\e-Parking\TubesKPLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\KULIAH Tk.II\Materi genap tk.2\Kontruksi Perangkat Lunak\New folder (2)\e-Parking\e-Parking\TubesKPLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\KULIAH Tk.II\Materi genap tk.2\Kontruksi Perangkat Lunak\New folder (2)\e-Parking\e-Parking\TubesKPLTests\bin\Debug\TubesKPL.exe
+D:\KULIAH Tk.II\Materi genap tk.2\Kontruksi Perangkat Lunak\New folder (2)\e-Parking\e-Parking\TubesKPLTests\bin\Debug\Newtonsoft.Json.dll
+D:\KULIAH Tk.II\Materi genap tk.2\Kontruksi Perangkat Lunak\New folder (2)\e-Parking\e-Parking\TubesKPLTests\bin\Debug\TubesKPL.pdb
+D:\KULIAH Tk.II\Materi genap tk.2\Kontruksi Perangkat Lunak\New folder (2)\e-Parking\e-Parking\TubesKPLTests\bin\Debug\TubesKPL.exe.config
+D:\KULIAH Tk.II\Materi genap tk.2\Kontruksi Perangkat Lunak\New folder (2)\e-Parking\e-Parking\TubesKPLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\KULIAH Tk.II\Materi genap tk.2\Kontruksi Perangkat Lunak\New folder (2)\e-Parking\e-Parking\TubesKPLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\KULIAH Tk.II\Materi genap tk.2\Kontruksi Perangkat Lunak\New folder (2)\e-Parking\e-Parking\TubesKPLTests\bin\Debug\Newtonsoft.Json.xml
+D:\KULIAH Tk.II\Materi genap tk.2\Kontruksi Perangkat Lunak\New folder (2)\e-Parking\e-Parking\TubesKPLTests\obj\Debug\TubesKPLTests.csproj.AssemblyReference.cache
+D:\KULIAH Tk.II\Materi genap tk.2\Kontruksi Perangkat Lunak\New folder (2)\e-Parking\e-Parking\TubesKPLTests\obj\Debug\TubesKPLTests.csproj.CoreCompileInputs.cache
+D:\KULIAH Tk.II\Materi genap tk.2\Kontruksi Perangkat Lunak\New folder (2)\e-Parking\e-Parking\TubesKPLTests\obj\Debug\TubesKPLTests.csproj.CopyComplete
+D:\KULIAH Tk.II\Materi genap tk.2\Kontruksi Perangkat Lunak\New folder (2)\e-Parking\e-Parking\TubesKPLTests\obj\Debug\TubesKPLTests.dll
+D:\KULIAH Tk.II\Materi genap tk.2\Kontruksi Perangkat Lunak\New folder (2)\e-Parking\e-Parking\TubesKPLTests\obj\Debug\TubesKPLTests.pdb
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPLTests\bin\Debug\TubesKPLTests.dll
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPLTests\bin\Debug\TubesKPLTests.pdb
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPLTests\bin\Debug\TubesKPL.exe
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPLTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPLTests\bin\Debug\TubesKPL.pdb
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPLTests\bin\Debug\TubesKPL.exe.config
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPLTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPLTests\obj\Debug\TubesKPLTests.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPLTests\obj\Debug\TubesKPLTests.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPLTests\obj\Debug\TubesKPLTests.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPLTests\obj\Debug\TubesKPLTests.dll
+C:\Users\User\Documents\GitHub\e-Parking\e-Parking\TubesKPLTests\obj\Debug\TubesKPLTests.pdb
